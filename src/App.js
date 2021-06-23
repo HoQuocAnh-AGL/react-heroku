@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React JS Demo deploy Heroku
+          React JS Allgor Labo Demo
         </p>
         <a
           className="App-link"
